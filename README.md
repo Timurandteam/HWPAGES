@@ -12,5 +12,4 @@ __родился в г.Уфа__
 
 ### Учусь на курсе __(QA)__ *Тестировщик*
 
-Живу в Тайланде, люблю путешествовать и познавать новое
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Timur.](https://1drv.ms/u/s!Aj4PyOyKxev4q0EG_oU3BKUcqj4u?e=SZVMsi)
+Живу в Тайланде, люблю путешествовать и познавать новое!
